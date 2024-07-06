@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1720270684 source:c:\users\thomas\documents\usaco problems\usaco problems\your ride is here.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1720272974 source:c:\users\thomas\documents\usaco problems\usaco problems\gift1.cpp
+	<bits/stdc++.h>
+
+1720279632 source:c:\users\thomas\documents\usaco problems\usaco problems\friday.cpp
+	<bits/stdc++.h>
+
